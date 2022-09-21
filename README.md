@@ -274,7 +274,7 @@ Item # | Description | Completed
 1b | Link to `commit #1 from Github.com` | [Point to Commit #1](https://github.com/DanOukolov/learn-git-milestones/commit/d1c141bb1b56fb7e45b654cdacd35e0934d61131)
 1c | Link to markdown tables docs | [Link to Markdown Table Docs](https://www.pluralsight.com/guides/working-tables-github-markdown)
 1d | What does `log` do? | It shows the commit logs
-2a | 2nd Favorite emoji |
+2a | 2nd Favorite emoji |😒
 2b | Link to `commit #2 from Github Desktop` |
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
