@@ -276,7 +276,7 @@ Item # | Description | Completed
 1d | What does `log` do? | It shows the commit logs
 2a | 2nd Favorite emoji |😒
 2b | Link to `commit #2 from Github Desktop` |  [Point to Commit #2](https://github.com/DanOukolov/learn-git-milestones/commit/167dea9e1d845a8f56b92d13a737a70fdc1d0f8d)
-2c | Full path to your working directory | (/c/Users/daniel.oukolov/desktop/sites/critical-web-design/learn-git-milestones)
+2c | Full path to your working directory | ((/c/Users/daniel.oukolov/desktop/sites/critical-web-design/learn-git-milestones))
 2d | Link to `commit #3 from CLI` | 
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from Atom` |
