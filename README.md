@@ -280,7 +280,7 @@ Item # | Description | Completed
 2d | Link to `commit #3 from CLI` | [Link to commit #3 from CLI](https://github.com/omundy/learn-git-milestones/commit/4dfe95ded2c92ec3882b53dc44ff7e30425c7318)
 2e | 3rd Favorite emoji | 👀
 2f | Link to `commit #4 from Atom` | [commit #4 from Atom](https://github.com/omundy/learn-git-milestones/commit/213d19f5095c554c9662718f0f294818656dc1d7)
-3a | Link to `my-awesome-project` github.com repo page |
+3a | Link to `my-awesome-project` github.com repo page | https://github.com/DanOukolov/my-awesome-project/settings 
 4a | Link to `my-awesome-project` github.io "project site" |
 ... | ... | Total: 0/12
 
