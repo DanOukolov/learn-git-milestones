@@ -1,0 +1,7 @@
+Here is my fun and cool text file that I will add: 
+
+Here is my opinion of the class so far:
+This class is actually extremely hard. It is time intensive and is like drinking
+water from a fire hydrant. But, it is the class that I have learned most in along
+with CSC 221 -- Data Structures. I am excited to take Radical Software and Physical 
+Computing in the Spring.
