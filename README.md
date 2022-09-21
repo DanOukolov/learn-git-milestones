@@ -282,7 +282,7 @@ Item # | Description | Completed
 2f | Link to `commit #4 from Atom` | [commit #4 from Atom](https://github.com/omundy/learn-git-milestones/commit/213d19f5095c554c9662718f0f294818656dc1d7)
 3a | Link to `my-awesome-project` github.com repo page | [My-Awesome-Project Repo](https://github.com/DanOukolov/my-awesome-project)
 4a | Link to `my-awesome-project` github.io "project site" | [My-Awesome-Project Page](https://danoukolov.github.io/my-awesome-project/)
-... | ... | Total: 0/12
+... | ... | Total: 12/12
 
 
 
